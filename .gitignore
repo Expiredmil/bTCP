@@ -2,3 +2,4 @@ output.file
 testframework-output.file
 large_input.py
 .idea
+.git
